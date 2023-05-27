@@ -1,0 +1,29 @@
+body,html {
+margin: 0;
+padding: 0;
+
+
+}
+.container{
+
+    width: 500px;
+    height: 500px;
+    margin: 0;
+
+
+
+}
+.button{
+display: block;
+
+
+
+}
+.sidebar{
+    background-color: lightgray;
+    z-index: 1;
+    overflow: auto;
+    height: 100%;
+    position: fixed;
+    
+    }
